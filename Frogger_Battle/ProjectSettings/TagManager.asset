@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pitfall
+  - Wall
+  - Platform
+  - Car
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - Platform
+  - Pitfall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 570366231
+    locked: 0
+  - name: Log
+    uniqueID: 2700692467
+    locked: 0
+  - name: Powerup
+    uniqueID: 2713746653
+    locked: 0
+  - name: Player
+    uniqueID: 525096145
+    locked: 0
+  - name: Car
+    uniqueID: 3603984821
+    locked: 0
